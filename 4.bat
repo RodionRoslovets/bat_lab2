@@ -1,0 +1,3 @@
+@ECHO OFF
+
+XCOPY %1 %2 /E
